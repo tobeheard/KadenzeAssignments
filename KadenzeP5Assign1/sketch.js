@@ -11,6 +11,7 @@
 
 function setup() {
   // put setup code here
+  //add some code here
 }
 
 function draw() {
